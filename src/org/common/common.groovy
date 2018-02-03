@@ -1,3 +1,5 @@
+package org.common
+
 def test1() {
     node {
         stage('Execute some shell') {
