@@ -1,3 +1,4 @@
+//#!/usr/bin/groovy
 package org.common;
 
 def test1() {
