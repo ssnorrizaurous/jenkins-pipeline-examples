@@ -1,4 +1,4 @@
-def test1{
+def test1() {
     node {
         stage('Execute some shell') {
             try {
